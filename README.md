@@ -25,6 +25,8 @@ para fechar. Sem JavaScript os links abrem diretamente os arquivos de imagem.
 - style.css: visual e adaptação às telas.
 - script.js: vídeo, profundidade e ampliação das fotos.
 - assets/: fotos e vídeo fornecidos pelo responsável, preservados.
+- assets/rpg-button-frame.svg: moldura vetorial própria dos botões, com bronze,
+  relevos e textura. As palavras e os ícones continuam em HTML/SVG acessível.
 - .nojekyll: publicação estática sem processamento Jekyll.
 
 ## Atualizar
